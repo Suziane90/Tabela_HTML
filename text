@@ -1,0 +1,18 @@
+● Crie um novo arquivo HTML e salve-o com um nome adequado, como
+"minha-tabela.html".
+● Use a tag <html> para definir o documento HTML.
+● Use a tag <head> para incluir uma tag title com o título da sua página de
+tabela.
+● Use a tag <body> para definir o corpo do seu documento.
+● Use a tag <table> para criar uma tabela.
+● Use a tag <caption> para adicionar uma legenda à sua tabela.
+● Use a tag <thead> para criar uma seção de cabeçalho da tabela.
+● Use a tag <th> para criar cabeçalhos de tabela para cada coluna da sua
+tabela.
+● Use a tag <tbody> para criar uma seção do corpo da tabela.
+● Use a tag <tr> para criar uma linha da tabela.
+● Use a tag <td> para adicionar dados a cada célula da sua tabela.
+● Repita os passos 12-13 para adicionar mais linhas de dados à sua
+tabela.
+● Use a tag <tfoot> para criar uma seção de rodapé da tabela, se
+necessário.
